@@ -1,0 +1,49 @@
+
+.textareas{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.input-group{
+    width: 20%;
+}
+.input-group-text{
+    background-color: #EAE4F2;
+}
+.submitbutton{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sbmtbtn{
+    width: 200px;
+    border: 2px solid #674FA3;
+    background-color: transparent;
+    padding: 4px 8px;
+    border-radius: 5px;
+    color: #674FA3;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.map{
+    width: 100%;
+    height: 80vh;
+    border-radius: 20px;
+    /* background: url('../images/laptop-black-realistic.png');
+    background-size:100% 100%;
+    
+    background-repeat: no-repeat; */
+}
+.inpw{
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+
+.infos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

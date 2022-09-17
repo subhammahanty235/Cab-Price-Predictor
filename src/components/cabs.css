@@ -1,0 +1,47 @@
+.cabs-box{
+    margin-top: 10px;
+    width: 100%;
+    background-color: #674fa3;
+    border-radius: 1px solid black;
+    height: 10vh;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cabinfo{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    /* display: flex; */
+    padding: 0;
+    margin: 0;
+    /* margin-right: -300px; */
+    border: 2px solid #EAE4F2;
+    margin-left: 20px;
+    padding: 5px 20px;
+    border-radius: 30px;
+    background-color: #EAE4F2;
+    opacity: 0.9;
+}
+.cabinfo img{
+    width: 3rem;
+    box-sizing: border-box;
+    /* background-color: aqua; */
+
+    /* border: 3px solid black; */
+}
+.cabinfo h2{
+    /* border: 2px solid red; */
+}
+
+.price{
+    color: #fff;
+    margin-right: 20px;
+}
+.price span{
+    font-weight: 500;
+    border: 2px solid whitesmoke;
+    padding: 2px 5px;
+    border-radius: 20px;
+}
