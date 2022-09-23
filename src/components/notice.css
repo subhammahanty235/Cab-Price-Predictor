@@ -1,0 +1,33 @@
+.listul{
+    width: 50%;
+}
+
+.mc-notice{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.listul li{
+    /* border: 2px solid black; */
+    padding: 10px 10px;
+}
+.btn2{
+    border: 3px solid rgb(86, 7, 86);
+    background-color: transparent;
+    padding: 2px 30px;
+    border-radius: 3px;
+    color: rgb(86, 7, 86);
+    font-weight: 700;
+    transition: all 0.3s;
+}
+
+.btn2:hover{
+    background-color: rgb(126, 17, 126);
+    color: #fff;
+    border: 3px solid #fff;border-radius: 10px;
+}
+.imptext{
+    font-weight: 600;
+    color:#1BA94C ;
+}

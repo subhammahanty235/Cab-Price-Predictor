@@ -3,7 +3,40 @@
     width: 100%;
     height: 70px;
     /* overflow: hidden; */
-    /* margin-top: 50px; */
-    margin-top: 50px;
+    margin-top: 5%;
+    /* margin-top: 63vh; */
+
+    color: #1BA94C;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.9;
+    overflow: hidden;
     
+}
+
+.footer2{
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    /* overflow: hidden; */
+    margin-top: 100%;
+    /* margin-top: 63vh; */
+
+    color: #1BA94C;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.9;
+    overflow: hidden;
+}
+.sp{
+    color: violet;
+    cursor: pointer;
+    text-decoration: none;
+}
+.link{
+    text-decoration: none;
 }

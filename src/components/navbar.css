@@ -30,6 +30,7 @@
     font-weight: 600;
     cursor: pointer;
     transition: all 0.5s;
+    
 }
 .oldsearches:hover ,.oldsearches:active {
     /* background-color: #bf9deb; */

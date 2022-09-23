@@ -1,8 +1,12 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import './footer.css'
-function Footer() {
+function Footer({hide}) {
+
   return (
-    <div className='footer'>Footer</div>
+    <div className={`${hide===true?'footer2':'footer'}`}>
+        <h5 className="text">Made With ❤️ By <Link className='link' to='/profile'><span  className='sp'>Subham</span></Link></h5>
+    </div>
   )
 }
 
